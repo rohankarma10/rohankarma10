@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Karmacharya!</h1>
-<h3 align="center">A passionate developer from Nepal</h3>
+<h3 align="center">A Passionate Developer from Nepal</h3>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRqYXAzeGlzYTFvZGlmMGRzbmFxOHdrbWI0ajhtYmp0bDZuODh3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
 
