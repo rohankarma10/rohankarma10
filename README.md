@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/803d920d-738e-4317-bd19-ea1c4242948b)
-
-
 <h1 align="center">Hi 👋, I'm Rohan Karmacharya!</h1>
 <h3 align="center">A Passionate Developer from Nepal</h3>
 
