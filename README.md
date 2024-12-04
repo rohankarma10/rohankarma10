@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRqYXAzeGlzYTFvZGlmMGRzbmFxOHdrbWI0ajhtYmp0bDZuODh3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
 
-
+<p align="center"><img src="https://profile-counter.glitch.me/{rohankarma10}/count.svg"></p>
 - 💬 Ask me about **react, next.js, editing**
 
 - 📫 How to reach me **rohankarmacharya110@gmail.com**
