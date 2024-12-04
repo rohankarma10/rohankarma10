@@ -6,7 +6,6 @@
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRqYXAzeGlzYTFvZGlmMGRzbmFxOHdrbWI0ajhtYmp0bDZuODh3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankarma10&label=Profile%20views&color=0e75b6&style=flat" alt="rohankarma10" /> </p>
 
 - 💬 Ask me about **react, next.js, editing**
 
