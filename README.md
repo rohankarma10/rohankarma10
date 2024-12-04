@@ -1,7 +1,7 @@
-<img align="right" alt="coding" width="100%" height="auto" src="https://c4.wallpaperflare.com/wallpaper/900/604/6/assassin-s-creed-animus-wallpaper-preview.jpg">
+<img align="right" alt="coding" width="100%" height="auto" src="https://c4.wallpaperflare.com/wallpaper/900/604/6/assassin-s-creed-animus-wallpaper-preview.jpg" style="margin-bottom:1.5 rem;">
 
 
-<h1 align="center" style="margin-top:1.5 rem;">Hi 👋, I'm Rohan Karmacharya!</h1>
+<h1 align="center" >Hi 👋, I'm Rohan Karmacharya!</h1>
 <h3 align="center">A Passionate Developer from Nepal</h3>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRqYXAzeGlzYTFvZGlmMGRzbmFxOHdrbWI0ajhtYmp0bDZuODh3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
